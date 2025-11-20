@@ -1,6 +1,7 @@
 # Retail-Sales-Optimization-using-MS-Excel-BikeGear-Solutions-Case-study
 Business Analyst project using Excel for regional, demographic, and seasonal sales analysis to drive strategy and operational efficiency in retail.
-## Table of Contents 📑
+
+# Table of Contents 📑
 
 1.  [Project Summary & Challenge](#i-project-summary--challenge-%f0%9f%8e%af)
 2.  [Problem Statement & Rationale](#ii-problem-statement--rationale-%f0%9f%8c%b8)
@@ -10,7 +11,7 @@ Business Analyst project using Excel for regional, demographic, and seasonal sal
 
 ---
 
-#🎯 Project Summary & Challenge 
+# 🎯 Project Summary & Challenge 
 
 ---
 
