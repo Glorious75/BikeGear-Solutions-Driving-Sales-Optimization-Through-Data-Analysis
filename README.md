@@ -13,10 +13,30 @@ Business Analyst project using Excel for regional, demographic, and seasonal sal
 
 # 🎯 Project Summary & Challenge 
 
+BikeGear Solutions, a multinational retailer of cycling accessories, faced significant strategic blind spots regarding its global sales performance. Leadership required data to effectively refine **regional marketing strategies, understand target demographics, manage inventory, and forecast demand**.
+
+This project utilized **MS Excel** for a deep-dive analysis of historical sales data to provide actionable intelligence, addressing key questions like: *Which regions and demographics are driving the highest revenue?* and *How do we align inventory with seasonal demand cycles?*
+
+### **Key Deliverables:**
+
+* **Actionable Business Recommendations** derived from sales data.
+* **Regional Performance Segmentation** (Canada, U.S., Australia).
+* **Demographic Sales Insights** (Age and Gender targeting).
+* **Product Performance and Seasonal Demand** forecasting metrics.
 ---
 
 # 💡 Problem Statement & Rationale 
 
+### **Scenario Overview**
+BikeGear Solutions operates across Canada, the U.S., and Australia. Without a clear data-driven view of its highest-performing segments, the company risked misallocating resources and missing critical growth opportunities due to operational inefficiencies and poorly timed campaigns.
+
+### **Rationale for the Project (Business Impact)**
+
+| Impact Area | Importance to the Business |
+| :--- | :--- |
+| **Revenue Optimization** | Pinpoints top-performing regions and product subcategories to focus promotional efforts and pricing strategies, maximizing profitability. |
+| **Customer Targeting** | Identifies core age groups and demographics driving sales, supporting targeted advertising and future product design. |
+| **Operational Efficiency** | Provides evidence to improve supply chain responsiveness and reduce inventory waste by accurately predicting seasonal demand spikes. |
 ---
 
 # 🛠️ Tools and Technology 
