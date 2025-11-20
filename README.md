@@ -1,4 +1,4 @@
-# Retail-Sales-Optimization-using-MS-Excel-BikeGear-Solutions-Case-study
+# BikeGear Solutions: Driving Sales Optimization Through Data Analysis
 Business Analyst project using Excel for regional, demographic, and seasonal sales analysis to drive strategy and operational efficiency in retail.
 
 # Table of Contents 📑
