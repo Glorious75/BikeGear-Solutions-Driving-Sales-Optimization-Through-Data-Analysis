@@ -41,6 +41,12 @@ BikeGear Solutions operates across Canada, the U.S., and Australia. Without a cl
 
 # 🛠️ Tools and Technology 
 
+| Category | Tool / Feature | Application in Project |
+| :--- | :--- | :--- |
+| **Data Analysis** | MS Excel (Pivot Tables & Slicers) | Aggregating and dynamically filtering sales data by region, age, and product. |
+| **Visualization** | Excel Charts (Bar, Line, Pareto) | Creating clear visuals for regional scorecards and seasonal trends (e.g., Line Chart for monthly sales). |
+| **Calculations** | Advanced Formulas (e.g., `SUMIFS`) | Calculating metrics like Revenue per Region and Average Order Value (AOV). |
+| **Documentation** | Markdown (`README.md`) | Structuring and presenting the project narrative for the portfolio. |
 ---
 
 # 📊 Data Description 
