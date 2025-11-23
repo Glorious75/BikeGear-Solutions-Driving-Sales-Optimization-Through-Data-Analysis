@@ -5,12 +5,10 @@ Business Analyst project using Excel for regional, demographic, and seasonal sal
 
 1.  [Project Summary & Challenge](#project-summary--challenge) 
 2.  [Problem Statement & Rationale](#problem-statement--rationale) 
-3.  [Tools and Technology](#tools-and-technology) 
-4.  [Data Description](#data-description) 
-5.  [Project Learning Opportunities](#project-learning-opportunities) 
-6.  [Conclusion & Strategic Recommendations](#conclusion--strategic-recommendations) 
----
-
+3. [Tools and Technology](#tools-and-technology) 
+4. [Data Description](#data-description) 
+5. [Conclusion & Strategic Recommendations](#conclusion--strategic-recommendations)
+   
 # 🎯 Project Summary & Challenge 
 
 BikeGear Solutions, a multinational retailer of cycling accessories, faced significant strategic blind spots regarding its global sales performance. Leadership required data to effectively refine **regional marketing strategies, understand target demographics, manage inventory, and forecast demand**.
@@ -60,16 +58,90 @@ BikeGear Solutions operates across Canada, the U.S., and Australia. Without a cl
 
 As the Business Analyst, I utilized **Microsoft Excel** to clean the data, create calculated metrics (**Profit** and **Revenue**), segment customer groups, and build a dynamic, interactive dashboard to address these questions and provide clear, actionable strategic recommendations.
 
+### Key Performance Indicators (KPIs): These metrics reflect the overall performance of the sales data analyzed in the case study.
+
+| KPI | Value |
+| :--- | :--- |
+| **Total Revenue** | $95,021,171 |
+| **Total Order Quantity** | 1,346,911 |
+| **Total Profit** | $94,752,459 |
+
+### Business questions (answered)
+
+## 1) Revenue Distribution by Region: Top countries (by revenue):
+
+- United States — 30,574,297 (≈ 32.36% of total revenue)
+
+- Australia — 25,297,064 (≈ 26.77%)
+
+- United Kingdom — 11,009,158 (≈ 11.65%)
+
+- Germany — 9,859,672 (≈ 10.43%)
+
+- France — 9,768,215 (≈ 10.34%)
+
+- Top states/provinces (by revenue) include California (top), England, New South Wales, Washington, etc. (California is the single highest state contributor).
+
+### Implication & Recommendation
+
+- Prioritise targeted promotional campaigns (e.g., paid-search and local social advertising) in California and major US hubs, and in top Australian states (New South Wales, Victoria, Queensland).
+
+- For underperforming states/countries with decent traffic but low conversions, run A/B tests on localised landing pages and offers.
+
+## 2) Which age groups does our product mostly appeal to?
+
+Grouping used (explicit boundaries used in analysis): Youth = <= 24 | Young Adult = 25–35 | Adult = > 35
+
+- Adult (>35) is the dominant group by both revenue and volume (largest share of revenue and orders).
+
+- Young Adult is the next largest; Youth contributes smaller share but is still meaningful for accessories/entry-level items.
+
+### Implication & Recommendation: 
+
+- Focus premium products, upsells, and extended-warranty messaging to Adults (>35).
+
+- Use social channels and promotional bundles (student/entry-level pricing) to grow adoption among Youths.
+
+- Tailor creative by age: lifestyle-focused imagery for Adults; mobile-first, value-oriented creatives for Young Adults and Youth.
+
+## 3) Product Popularity (subcategories)
+
+- Top product subcategories by units sold (and their revenue) are dominated by Bike Racks
+
+### Implication & Recommendation
+
+- Increase inventory & promotional emphasis on top-selling subcategories (e.g., “Hitch Rack - 4-Bike” family).
+
+- Remove or markdown slow-moving SKUs; consider bundle promotions pairing accessories with racks to increase average order value.
+
+## 4) Sales Seasonality
+   
+- Monthly revenue patterns show consistent peaks in December, June, and May this is likely due to holiday and cycling season effects.
+
+- Lower revenue months: July and some early autumn months.
+
+### Implication & Recommendation
+
+- Increase stock levels for top SKUs before May–June and the December holiday window.
+
+- Schedule major promotions in April–June and November–December to align with demand peaks.
+
+- For low-season months, execute smaller, targeted promos to smooth demand and reduce inventory holding costs.
+
+# Conclusion
+
+## Strategic Recommendations (priority list)
+
+- Regional campaigns: Launch paid and email campaigns targeted to California, New South Wales, and other top states. Create localized landing pages and measure lift.
+
+- Inventory planning: Rebalance inventory to ensure top subcategories and specific SKUs are well stocked before May–June and Nov–Dec.
+
+- Age-tailored promotions: Promote premium bundles and warranty extras to Adults (>35); run entry-level discount bundles targeting Youth.
+
+- Product focus & merchandising: Promote top subcategories on homepage and checkout cross-sell; discontinue/markdown slow-moving SKUs.
+
+- Seasonal promotions calendar: Build a marketing calendar around May–June and November–December peaks
 
 
-# 🧠 Project Learning Opportunities 
-
-This project demonstrated proficiency in leveraging raw data to solve real-world business challenges and transition analysis into actionable strategy.
-
-* **Data Transformation:** Successfully created derived metrics (`Profit`, `Revenue`) and implemented custom segmentation logic (e.g., Age Groups) critical for business modeling.
-* **Strategic Reporting:** Developed a dynamic Excel dashboard that consolidates complex data into clear Key Performance Indicators (KPIs) and visual analysis for executive review.
-* **Business Acumen:** Provided clear recommendations that directly impact **inventory planning** (based on seasonality), **marketing focus** (based on region/demographic), and **product strategy** (maximizing high-profit items).
-* **Core Conclusion:** Identified that while **Tires and Tubes** drive volume, **Bikes** drive the overwhelming majority of profit, necessitating a change in promotional focus.
----
 
 
