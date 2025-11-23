@@ -53,15 +53,15 @@ BikeGear Solutions operates across Canada, the U.S., and Australia. Without a cl
 
 The analysis of the sales data was conducted using Excel Pivot Tables and Calculated Fields to transform raw data (Unit_Cost, Unit_Price, Order_Quantity) into the derived metrics (Revenue, Cost, Profit) that drive actionable insights. The results are visualized through a dynamic dashboard
 
-**Live Dashboard:**
+**Bikegear Performance Dashboard:**
 
 <img width="1779" height="1197" alt="image" src="https://github.com/user-attachments/assets/98cb242d-aa74-4a96-85cc-98be2e9883ea" />
 
-###  Solution to Business Questions
+##  Solution to Business Questions
 
 As the Business Analyst, I utilized **Microsoft Excel** to clean the data, create calculated metrics (**Profit** and **Revenue**), segment customer groups, and build a dynamic, interactive dashboard to address these questions and provide clear, actionable strategic recommendations.
 
-## 1) Revenue Distribution by Region: Top countries (by revenue):
+### 1) Revenue Distribution by Region: Top countries (by revenue):
 
 - United States — 30,574,297 (≈ 32.36% of total revenue)
 
@@ -81,7 +81,7 @@ As the Business Analyst, I utilized **Microsoft Excel** to clean the data, creat
 
 - For underperforming states/countries with decent traffic but low conversions, run A/B tests on localised landing pages and offers.
 
-## 2) Which age groups does our product mostly appeal to?
+### 2) Which age groups does our product mostly appeal to?
 
 Grouping used (explicit boundaries used in analysis): Youth = <= 24 | Young Adult = 25–35 | Adult = > 35
 
@@ -97,7 +97,7 @@ Grouping used (explicit boundaries used in analysis): Youth = <= 24 | Young Adul
 
 - Tailor creative by age: lifestyle-focused imagery for Adults; mobile-first, value-oriented creatives for Young Adults and Youth.
 
-## 3) Product Popularity (subcategories)
+### 3) Product Popularity (subcategories)
 
 - Top product subcategories by units sold (and their revenue) are dominated by Bike Racks
 
@@ -107,7 +107,7 @@ Grouping used (explicit boundaries used in analysis): Youth = <= 24 | Young Adul
 
 - Remove or markdown slow-moving SKUs; consider bundle promotions pairing accessories with racks to increase average order value.
 
-## 4) Sales Seasonality
+### 4) Sales Seasonality
    
 - Monthly revenue patterns show consistent peaks in December, June, and May this is likely due to holiday and cycling season effects.
 
