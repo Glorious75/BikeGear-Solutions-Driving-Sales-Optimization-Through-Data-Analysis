@@ -49,24 +49,17 @@ BikeGear Solutions operates across Canada, the U.S., and Australia. Without a cl
 
 # 📊 Data Description 
 
- The analysis of the sales data was conducted using Excel Pivot Tables and Calculated Fields to transform raw data (Unit_Cost, Unit_Price, Order_Quantity) into the derived metrics (Revenue, Cost, Profit) that drive actionable insights. The results are visualized through a dynamic dashboard
+**Dataset:** 
 
-**Live Dashboard:** [Link to your hosted Excel Dashboard/PDF/Image]
-**Dataset:** `BikeGear_Solutions_sales_data.xlsx`
+The analysis of the sales data was conducted using Excel Pivot Tables and Calculated Fields to transform raw data (Unit_Cost, Unit_Price, Order_Quantity) into the derived metrics (Revenue, Cost, Profit) that drive actionable insights. The results are visualized through a dynamic dashboard
 
-###  Solution
+**Live Dashboard:**
+
+<img width="1779" height="1197" alt="image" src="https://github.com/user-attachments/assets/98cb242d-aa74-4a96-85cc-98be2e9883ea" />
+
+###  Solution to Business Questions
 
 As the Business Analyst, I utilized **Microsoft Excel** to clean the data, create calculated metrics (**Profit** and **Revenue**), segment customer groups, and build a dynamic, interactive dashboard to address these questions and provide clear, actionable strategic recommendations.
-
-### Key Performance Indicators (KPIs): These metrics reflect the overall performance of the sales data analyzed in the case study.
-
-| KPI | Value |
-| :--- | :--- |
-| **Total Revenue** | $95,021,171 |
-| **Total Order Quantity** | 1,346,911 |
-| **Total Profit** | $94,752,459 |
-
-### Business questions (answered)
 
 ## 1) Revenue Distribution by Region: Top countries (by revenue):
 
