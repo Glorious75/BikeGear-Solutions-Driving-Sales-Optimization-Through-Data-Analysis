@@ -49,7 +49,6 @@ BikeGear Solutions operates across Canada, the U.S., and Australia. Without a cl
 
 # 📊 Data Description 
 
-**Dataset:**
 📥 **Download the Excel Dashboard** [BikeGear_Solutions_dashboard.xlsx](./BikeGear_Solutions_dashboard.xlsx)
 
 The analysis of the sales data was conducted using Excel Pivot Tables and Calculated Fields to transform raw data (Unit_Cost, Unit_Price, Order_Quantity) into the derived metrics (Revenue, Cost, Profit) that drive actionable insights. The results are visualized through a dynamic dashboard
