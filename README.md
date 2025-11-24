@@ -1,4 +1,4 @@
-# BikeGear Solutions: Driving Sales Optimization Through Data Analysis
+# BikeGear Solutions: Driving Sales Optimization Using Ms Excel Data Analysis
 Business Analyst project using Excel for regional, demographic, and seasonal sales analysis to drive strategy and operational efficiency in retail.
 
 # Table of Contents 📑
